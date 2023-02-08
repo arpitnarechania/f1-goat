@@ -1,0 +1,998 @@
+year,race,country,circuit,1stPlace,2ndPlace,3rdPlace
+2009,Australian Grand Prix,Australia,Albert-Park,18,22,15
+2009,Malaysian Grand Prix,Malaysia,Sepang,18,2,10
+2009,Chinese Grand Prix,China,Shanghai,20,17,18
+2009,Bahrain Grand Prix,Bahrain,Bahrain,18,20,15
+2009,Spanish Grand Prix,Spain,Circuit de Barcelona-Catalunya,18,22,17
+2009,Monaco Grand Prix,Monaco,Circuit de Monaco,18,22,8
+2009,Turkish Grand Prix,Turkey,Istanbul-Park,18,17,20
+2009,British Grand Prix,UK,Silverstone Circuit,20,17,22
+2009,German Grand Prix,Germany,Nürburgring,17,20,13
+2009,Hungarian Grand Prix,Hungary,Hungaroring,1,8,17
+2009,European Grand Prix,Spain,Valencia Street Circuit,22,1,8
+2009,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,8,21,20
+2009,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,22,18,8
+2009,Singapore Grand Prix,Singapore,Marina Bay Street Circuit,1,10,4
+2009,Japanese Grand Prix,Japan,Suzuka Circuit,20,15,1
+2009,Brazilian Grand Prix,Brazil,Autódromo José Carlos Pace,17,9,1
+2009,Abu-Dhabi Grand Prix,UAE,Yas Marina Circuit,20,17,18
+2008,Australian Grand Prix,Australia,Albert-Park,1,2,3
+2008,Malaysian Grand Prix,Malaysia,Sepang,8,9,5
+2008,Bahrain Grand Prix,Bahrain,Bahrain,13,8,9
+2008,Spanish Grand Prix,Spain,Circuit de Barcelona-Catalunya,8,13,1
+2008,Turkish Grand Prix,Turkey,Istanbul-Park,13,1,8
+2008,Monaco Grand Prix,Monaco,Circuit de Monaco,1,9,13
+2008,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,9,2,14
+2008,French Grand Prix,France,Circuit de Nevers Magny-Cours,13,8,15
+2008,British Grand Prix,UK,Silverstone Circuit,1,2,22
+2008,German Grand Prix,Germany,Hockenheimring,1,12,13
+2008,Hungarian Grand Prix,Hungary,Hungaroring,5,10,8
+2008,European Grand Prix,Spain,Valencia Street Circuit,13,1,9
+2008,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,13,2,1
+2008,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,20,5,9
+2008,Singapore Grand Prix,Singapore,Marina Bay Street Circuit,4,3,1
+2008,Japanese Grand Prix,Japan,Fuji Speedway,4,9,8
+2008,Chinese Grand Prix,China,Shanghai,1,13,8
+2008,Brazilian Grand Prix,Brazil,Autódromo José Carlos Pace,13,4,8
+2007,Australian Grand Prix,Australia,Albert-Park,8,4,1
+2007,Malaysian Grand Prix,Malaysia,Sepang,4,1,8
+2007,Bahrain Grand Prix,Bahrain,Bahrain,13,1,8
+2007,Spanish Grand Prix,Spain,Circuit de Barcelona-Catalunya,13,1,4
+2007,Monaco Grand Prix,Monaco,Circuit de Monaco,4,1,13
+2007,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,1,2,25
+2007,United-States Grand Prix,USA,Indianapolis Motor Speedway,1,4,13
+2007,French Grand Prix,France,Circuit de Nevers Magny-Cours,8,13,1
+2007,British Grand Prix,UK,Silverstone Circuit,8,4,1
+2007,European Grand Prix,Germany,Nürburgring,4,13,17
+2007,Hungarian Grand Prix,Hungary,Hungaroring,1,8,2
+2007,Turkish Grand Prix,Turkey,Istanbul-Park,13,8,4
+2007,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,4,1,8
+2007,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,8,13,4
+2007,Japanese Grand Prix,Japan,Fuji Speedway,1,5,8
+2007,Chinese Grand Prix,China,Shanghai,8,4,13
+2007,Brazilian Grand Prix,Brazil,Autódromo José Carlos Pace,8,13,4
+2006,Bahrain Grand Prix,Bahrain,Bahrain,4,30,8
+2006,Malaysian Grand Prix,Malaysia,Sepang,21,4,18
+2006,Australian Grand Prix,Australia,Albert-Park,4,8,23
+2006,San-Marino Grand Prix,Italy,Autodromo Enzo e Dino Ferrari,30,4,31
+2006,European Grand Prix,Germany,Nürburgring,30,4,13
+2006,Spanish Grand Prix,Spain,Circuit de Barcelona-Catalunya,4,30,21
+2006,Monaco Grand Prix,Monaco,Circuit de Monaco,4,31,14
+2006,British Grand Prix,UK,Silverstone Circuit,4,30,8
+2006,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,4,30,8
+2006,United-States Grand Prix,USA,Indianapolis Motor Speedway,30,13,21
+2006,French Grand Prix,France,Circuit de Nevers Magny-Cours,30,4,13
+2006,German Grand Prix,Germany,Hockenheimring,30,13,8
+2006,Hungarian Grand Prix,Hungary,Hungaroring,18,37,2
+2006,Turkish Grand Prix,Turkey,Istanbul-Park,13,4,30
+2006,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,30,8,9
+2006,Chinese Grand Prix,China,Shanghai,30,4,21
+2006,Japanese Grand Prix,Japan,Suzuka Circuit,4,13,21
+2006,Brazilian Grand Prix,Brazil,Autódromo José Carlos Pace,13,4,18
+2005,Australian Grand Prix,Australia,Albert-Park,21,22,4
+2005,Malaysian Grand Prix,Malaysia,Sepang,4,15,2
+2005,Bahrain Grand Prix,Bahrain,Bahrain,4,15,8
+2005,San-Marino Grand Prix,Italy,Autodromo Enzo e Dino Ferrari,4,30,25
+2005,Spanish Grand Prix,Spain,Circuit de Barcelona-Catalunya,8,4,15
+2005,Monaco Grand Prix,Monaco,Circuit de Monaco,8,2,17
+2005,European Grand Prix,Germany,Nürburgring,4,2,22
+2005,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,8,30,22
+2005,United-States Grand Prix,USA,Indianapolis Motor Speedway,30,22,33
+2005,French Grand Prix,France,Circuit de Nevers Magny-Cours,4,8,30
+2005,British Grand Prix,UK,Silverstone Circuit,31,4,8
+2005,German Grand Prix,Germany,Hockenheimring,4,31,18
+2005,Hungarian Grand Prix,Hungary,Hungaroring,8,30,23
+2005,Turkish Grand Prix,Turkey,Istanbul-Park,8,4,31
+2005,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,31,4,21
+2005,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,8,4,18
+2005,Brazilian Grand Prix,Brazil,Autódromo José Carlos Pace,31,8,4
+2005,Japanese Grand Prix,Japan,Suzuka Circuit,8,21,4
+2005,Chinese Grand Prix,China,Shanghai,4,8,23
+2004,Australian Grand Prix,Australia,Albert-Park,30,22,4
+2004,Malaysian Grand Prix,Malaysia,Sepang,30,31,18
+2004,Bahrain Grand Prix,Bahrain,Bahrain,30,22,18
+2004,San-Marino Grand Prix,Italy,Autodromo Enzo e Dino Ferrari,30,18,31
+2004,Spanish Grand Prix,Spain,Circuit de Barcelona-Catalunya,30,22,15
+2004,Monaco Grand Prix,Monaco,Circuit de Monaco,15,18,22
+2004,European Grand Prix,Germany,Nürburgring,30,22,18
+2004,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,30,22,18
+2004,United-States Grand Prix,USA,Indianapolis Motor Speedway,30,22,11
+2004,French Grand Prix,France,Circuit de Nevers Magny-Cours,30,4,22
+2004,British Grand Prix,UK,Silverstone Circuit,30,8,22
+2004,German Grand Prix,Germany,Hockenheimring,30,18,4
+2004,Hungarian Grand Prix,Hungary,Hungaroring,30,22,4
+2004,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,8,30,22
+2004,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,22,30,18
+2004,Chinese Grand Prix,China,Shanghai,22,18,8
+2004,Japanese Grand Prix,Japan,Suzuka Circuit,30,23,18
+2004,Brazilian Grand Prix,Brazil,Autódromo José Carlos Pace,31,8,22
+2003,Australian Grand Prix,Australia,Albert-Park,14,31,8
+2003,Malaysian Grand Prix,Malaysia,Sepang,8,22,4
+2003,Brazilian Grand Prix,Brazil,Autódromo José Carlos Pace,21,8,4
+2003,San-Marino Grand Prix,Italy,Autodromo Enzo e Dino Ferrari,30,8,22
+2003,Spanish Grand Prix,Spain,Circuit de Barcelona-Catalunya,30,4,22
+2003,Austrian Grand Prix,Austria,A1-Ring,30,8,22
+2003,Monaco Grand Prix,Monaco,Circuit de Monaco,31,8,30
+2003,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,30,23,31
+2003,European Grand Prix,Germany,Nürburgring,23,31,22
+2003,French Grand Prix,France,Circuit de Nevers Magny-Cours,23,31,30
+2003,British Grand Prix,UK,Silverstone Circuit,22,31,8
+2003,German Grand Prix,Germany,Hockenheimring,31,14,15
+2003,Hungarian Grand Prix,Hungary,Hungaroring,4,8,31
+2003,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,30,31,22
+2003,United-States Grand Prix,USA,Indianapolis Motor Speedway,30,8,49
+2003,Japanese Grand Prix,Japan,Suzuka Circuit,22,8,14
+2002,Australian Grand Prix,Australia,Albert-Park,30,31,8
+2002,Malaysian Grand Prix,Malaysia,Sepang,23,31,30
+2002,Brazilian Grand Prix,Brazil,Autódromo José Carlos Pace,30,23,14
+2002,San-Marino Grand Prix,Italy,Autodromo Enzo e Dino Ferrari,30,22,23
+2002,Spanish Grand Prix,Spain,Circuit de Barcelona-Catalunya,30,31,14
+2002,Austrian Grand Prix,Austria,A1-Ring,30,22,31
+2002,Monaco Grand Prix,Monaco,Circuit de Monaco,14,30,23
+2002,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,30,14,22
+2002,European Grand Prix,Germany,Nürburgring,22,30,8
+2002,British Grand Prix,UK,Silverstone Circuit,30,22,31
+2002,French Grand Prix,France,Circuit de Nevers Magny-Cours,30,8,14
+2002,German Grand Prix,Germany,Hockenheimring,30,31,23
+2002,Hungarian Grand Prix,Hungary,Hungaroring,22,30,23
+2002,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,30,22,31
+2002,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,22,30,56
+2002,United-States Grand Prix,USA,Indianapolis Motor Speedway,22,30,14
+2002,Japanese Grand Prix,Japan,Suzuka Circuit,30,22,8
+2001,Australian Grand Prix,Australia,Albert-Park,30,14,22
+2001,Malaysian Grand Prix,Malaysia,Sepang,30,22,14
+2001,Brazilian Grand Prix,Brazil,Autódromo José Carlos Pace,14,30,2
+2001,San-Marino Grand Prix,Italy,Autodromo Enzo e Dino Ferrari,23,14,22
+2001,Spanish Grand Prix,Spain,Circuit de Barcelona-Catalunya,30,31,35
+2001,Austrian Grand Prix,Austria,A1-Ring,14,30,22
+2001,Monaco Grand Prix,Monaco,Circuit de Monaco,30,22,56
+2001,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,23,30,57
+2001,European Grand Prix,Germany,Nürburgring,30,31,14
+2001,French Grand Prix,France,Circuit de Nevers Magny-Cours,30,23,22
+2001,British Grand Prix,UK,Silverstone Circuit,57,30,22
+2001,German Grand Prix,Germany,Hockenheimring,23,22,35
+2001,Hungarian Grand Prix,Hungary,Hungaroring,30,22,14
+2001,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,30,14,21
+2001,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,31,22,23
+2001,United-States Grand Prix,USA,Indianapolis Motor Speedway,57,30,14
+2001,Japanese Grand Prix,Japan,Suzuka Circuit,30,31,14
+2000,Australian Grand Prix,Australia,Albert-Park,30,22,23
+2000,Brazilian Grand Prix,Brazil,Autódromo José Carlos Pace,30,21,49
+2000,San-Marino Grand Prix,Italy,Autodromo Enzo e Dino Ferrari,30,57,14
+2000,British Grand Prix,UK,Silverstone Circuit,14,57,30
+2000,Spanish Grand Prix,Spain,Circuit de Barcelona-Catalunya,57,14,22
+2000,European Grand Prix,Germany,Nürburgring,30,57,14
+2000,Monaco Grand Prix,Monaco,Circuit de Monaco,14,22,21
+2000,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,30,22,21
+2000,French Grand Prix,France,Circuit de Nevers Magny-Cours,14,57,22
+2000,Austrian Grand Prix,Austria,A1-Ring,57,14,22
+2000,German Grand Prix,Germany,Hockenheimring,22,57,14
+2000,Hungarian Grand Prix,Hungary,Hungaroring,57,30,14
+2000,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,57,30,23
+2000,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,30,57,23
+2000,United-States Grand Prix,USA,Indianapolis Motor Speedway,30,22,49
+2000,Japanese Grand Prix,Japan,Suzuka Circuit,30,57,14
+2000,Malaysian Grand Prix,Malaysia,Sepang,30,14,22
+1999,Australian Grand Prix,Australia,Albert-Park,56,49,23
+1999,Brazilian Grand Prix,Brazil,Autódromo José Carlos Pace,57,30,49
+1999,San-Marino Grand Prix,Italy,Autodromo Enzo e Dino Ferrari,30,14,22
+1999,Monaco Grand Prix,Monaco,Circuit de Monaco,30,56,57
+1999,Spanish Grand Prix,Spain,Circuit de Barcelona-Catalunya,57,14,30
+1999,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,57,21,56
+1999,French Grand Prix,France,Circuit de Nevers Magny-Cours,49,57,22
+1999,British Grand Prix,UK,Silverstone Circuit,14,56,23
+1999,Austrian Grand Prix,Austria,A1-Ring,56,14,57
+1999,German Grand Prix,Germany,Hockenheimring,56,63,49
+1999,Hungarian Grand Prix,Hungary,Hungaroring,57,14,56
+1999,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,14,57,49
+1999,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,49,23,63
+1999,European Grand Prix,Germany,Nürburgring,65,15,22
+1999,Malaysian Grand Prix,Malaysia,Sepang,56,30,57
+1999,Japanese Grand Prix,Japan,Suzuka Circuit,57,30,56
+1998,Australian Grand Prix,Australia,Albert-Park,57,14,49
+1998,Brazilian Grand Prix,Brazil,Autódromo José Carlos Pace,57,14,30
+1998,Argentine Grand Prix,Argentina,Autódromo Juan y Oscar Gálvez,30,57,56
+1998,San-Marino Grand Prix,Italy,Autodromo Enzo e Dino Ferrari,14,30,56
+1998,Spanish Grand Prix,Spain,Circuit de Barcelona-Catalunya,57,14,30
+1998,Monaco Grand Prix,Monaco,Circuit de Monaco,57,21,56
+1998,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,30,21,56
+1998,French Grand Prix,France,Circuit de Nevers Magny-Cours,30,56,57
+1998,British Grand Prix,UK,Silverstone Circuit,30,57,56
+1998,Austrian Grand Prix,Austria,A1-Ring,57,14,30
+1998,German Grand Prix,Germany,Hockenheimring,57,14,35
+1998,Hungarian Grand Prix,Hungary,Hungaroring,30,14,35
+1998,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,71,23,55
+1998,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,30,56,23
+1998,Luxembourg Grand Prix,Germany,Nürburgring,57,30,14
+1998,Japanese Grand Prix,Japan,Suzuka Circuit,57,56,14
+1997,Australian Grand Prix,Australia,Albert-Park,14,30,57
+1997,Brazilian Grand Prix,Brazil,Autódromo José Carlos Pace,35,77,44
+1997,Argentine Grand Prix,Argentina,Autódromo Juan y Oscar Gálvez,35,56,23
+1997,San-Marino Grand Prix,Italy,Autodromo Enzo e Dino Ferrari,49,30,56
+1997,Monaco Grand Prix,Monaco,Circuit de Monaco,30,22,56
+1997,Spanish Grand Prix,Spain,Circuit de Barcelona-Catalunya,35,44,55
+1997,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,30,55,21
+1997,French Grand Prix,France,Circuit de Nevers Magny-Cours,30,49,56
+1997,British Grand Prix,UK,Silverstone Circuit,35,55,25
+1997,German Grand Prix,Germany,Hockenheimring,77,30,57
+1997,Hungarian Grand Prix,Hungary,Hungaroring,35,71,65
+1997,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,30,21,49
+1997,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,14,55,49
+1997,Austrian Grand Prix,Austria,A1-Ring,35,14,49
+1997,Luxembourg Grand Prix,Germany,Nürburgring,35,55,49
+1997,Japanese Grand Prix,Japan,Suzuka Circuit,30,49,56
+1997,European Grand Prix,Spain,Circuito de Jerez,57,14,35
+1996,Australian Grand Prix,Australia,Albert-Park,71,35,56
+1996,Brazilian Grand Prix,Brazil,Autódromo José Carlos Pace,71,55,30
+1996,Argentine Grand Prix,Argentina,Autódromo Juan y Oscar Gálvez,71,35,55
+1996,European Grand Prix,Germany,Nürburgring,35,30,14
+1996,San-Marino Grand Prix,Italy,Autodromo Enzo e Dino Ferrari,71,30,77
+1996,Monaco Grand Prix,Monaco,Circuit de Monaco,44,14,65
+1996,Spanish Grand Prix,Spain,Circuit de Barcelona-Catalunya,30,55,35
+1996,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,71,35,55
+1996,French Grand Prix,France,Circuit de Nevers Magny-Cours,71,35,55
+1996,British Grand Prix,UK,Silverstone Circuit,35,77,57
+1996,German Grand Prix,Germany,Hockenheimring,71,55,35
+1996,Hungarian Grand Prix,Hungary,Hungaroring,35,71,55
+1996,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,30,35,57
+1996,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,30,55,57
+1996,Portuguese Grand Prix,Portugal,Autódromo do Estoril,35,71,30
+1996,Japanese Grand Prix,Japan,Suzuka Circuit,71,30,57
+1995,Brazilian Grand Prix,Brazil,Autódromo José Carlos Pace,30,14,77
+1995,Argentine Grand Prix,Argentina,Autódromo Juan y Oscar Gálvez,71,55,30
+1995,San-Marino Grand Prix,Italy,Autodromo Enzo e Dino Ferrari,71,55,77
+1995,Spanish Grand Prix,Spain,Circuit de Barcelona-Catalunya,30,65,77
+1995,Monaco Grand Prix,Monaco,Circuit de Monaco,30,71,77
+1995,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,55,22,56
+1995,French Grand Prix,France,Circuit de Nevers Magny-Cours,30,71,14
+1995,British Grand Prix,UK,Silverstone Circuit,65,55,14
+1995,German Grand Prix,Germany,Hockenheimring,30,14,77
+1995,Hungarian Grand Prix,Hungary,Hungaroring,71,14,77
+1995,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,30,71,84
+1995,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,65,57,49
+1995,Portuguese Grand Prix,Portugal,Autódromo do Estoril,14,30,71
+1995,European Grand Prix,Germany,Nürburgring,30,55,14
+1995,Pacific Grand Prix,Japan,Okayama International Circuit,30,14,71
+1995,Japanese Grand Prix,Japan,Suzuka Circuit,30,57,65
+1995,Australian Grand Prix,Australia,Adelaide Street Circuit,71,44,81
+1994,Brazilian Grand Prix,Brazil,Autódromo José Carlos Pace,30,71,55
+1994,Pacific Grand Prix,Japan,Okayama International Circuit,30,77,22
+1994,San-Marino Grand Prix,Italy,Autodromo Enzo e Dino Ferrari,30,78,57
+1994,Monaco Grand Prix,Monaco,Circuit de Monaco,30,84,77
+1994,Spanish Grand Prix,Spain,Circuit de Barcelona-Catalunya,71,30,87
+1994,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,30,71,55
+1994,French Grand Prix,France,Circuit de Nevers Magny-Cours,30,71,77
+1994,British Grand Prix,UK,Silverstone Circuit,71,55,57
+1994,German Grand Prix,Germany,Hockenheimring,77,44,103
+1994,Hungarian Grand Prix,Hungary,Hungaroring,30,71,50
+1994,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,71,57,50
+1994,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,71,77,57
+1994,Portuguese Grand Prix,Portugal,Autódromo do Estoril,71,14,57
+1994,European Grand Prix,Spain,Circuito de Jerez,30,71,57
+1994,Japanese Grand Prix,Japan,Suzuka Circuit,71,30,55
+1994,Australian Grand Prix,Australia,Adelaide Street Circuit,95,77,84
+1993,South African Grand Prix,South Africa,Kyalami,117,102,87
+1993,Brazilian Grand Prix,Brazil,Autódromo José Carlos Pace,102,71,30
+1993,European Grand Prix,UK,Donington Park,102,71,117
+1993,San-Marino Grand Prix,Italy,Autodromo Enzo e Dino Ferrari,117,30,84
+1993,Spanish Grand Prix,Spain,Circuit de Barcelona-Catalunya,117,102,30
+1993,Monaco Grand Prix,Monaco,Circuit de Monaco,102,71,55
+1993,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,117,30,71
+1993,French Grand Prix,France,Circuit de Nevers Magny-Cours,117,71,30
+1993,British Grand Prix,UK,Silverstone Circuit,117,30,119
+1993,German Grand Prix,Germany,Hockenheimring,117,30,87
+1993,Hungarian Grand Prix,Hungary,Hungaroring,71,119,77
+1993,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,71,30,117
+1993,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,71,55,121
+1993,Portuguese Grand Prix,Portugal,Autódromo do Estoril,30,117,71
+1993,Japanese Grand Prix,Japan,Suzuka Circuit,102,117,57
+1993,Australian Grand Prix,Australia,Adelaide Street Circuit,102,117,71
+1992,South African Grand Prix,South Africa,Kyalami,95,119,102
+1992,Mexican Grand Prix,Mexico,Autódromo Hermanos Rodríguez,95,119,30
+1992,Brazilian Grand Prix,Brazil,Autódromo José Carlos Pace,95,119,30
+1992,Spanish Grand Prix,Spain,Circuit de Barcelona-Catalunya,95,30,55
+1992,San-Marino Grand Prix,Italy,Autodromo Enzo e Dino Ferrari,95,119,102
+1992,Monaco Grand Prix,Monaco,Circuit de Monaco,102,95,119
+1992,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,77,30,55
+1992,French Grand Prix,France,Circuit de Nevers Magny-Cours,95,119,84
+1992,British Grand Prix,UK,Silverstone Circuit,95,119,84
+1992,German Grand Prix,Germany,Hockenheimring,95,102,30
+1992,Hungarian Grand Prix,Hungary,Hungaroring,102,95,77
+1992,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,30,95,119
+1992,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,102,84,30
+1992,Portuguese Grand Prix,Portugal,Autódromo do Estoril,95,77,102
+1992,Japanese Grand Prix,Japan,Suzuka Circuit,119,77,84
+1992,Australian Grand Prix,Australia,Adelaide Street Circuit,77,30,84
+1991,United-States Grand Prix,USA,Phoenix street circuit,102,117,137
+1991,Brazilian Grand Prix,Brazil,Autódromo José Carlos Pace,102,119,77
+1991,San-Marino Grand Prix,Italy,Autodromo Enzo e Dino Ferrari,102,77,109
+1991,Monaco Grand Prix,Monaco,Circuit de Monaco,102,95,55
+1991,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,137,131,119
+1991,Mexican Grand Prix,Mexico,Autódromo Hermanos Rodríguez,119,95,102
+1991,French Grand Prix,France,Circuit de Nevers Magny-Cours,95,117,102
+1991,British Grand Prix,UK,Silverstone Circuit,95,77,117
+1991,German Grand Prix,Germany,Hockenheimring,95,119,55
+1991,Hungarian Grand Prix,Hungary,Hungaroring,102,95,119
+1991,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,102,77,137
+1991,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,95,102,117
+1991,Portuguese Grand Prix,Portugal,Autódromo do Estoril,119,102,55
+1991,Spanish Grand Prix,Spain,Circuit de Barcelona-Catalunya,95,117,119
+1991,Japanese Grand Prix,Japan,Suzuka Circuit,77,102,119
+1991,Australian Grand Prix,Australia,Adelaide Street Circuit,102,95,77
+1990,United-States Grand Prix,USA,Phoenix street circuit,102,55,123
+1990,Brazilian Grand Prix,Brazil,Autódromo José Carlos Pace,117,77,102
+1990,San-Marino Grand Prix,Italy,Autodromo Enzo e Dino Ferrari,119,77,145
+1990,Monaco Grand Prix,Monaco,Circuit de Monaco,102,55,77
+1990,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,102,137,95
+1990,Mexican Grand Prix,Mexico,Autódromo Hermanos Rodríguez,117,95,77
+1990,French Grand Prix,France,Circuit Paul Ricard,117,122,102
+1990,British Grand Prix,UK,Silverstone Circuit,117,123,102
+1990,German Grand Prix,Germany,Hockenheimring,102,145,77
+1990,Hungarian Grand Prix,Hungary,Hungaroring,123,102,137
+1990,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,102,117,77
+1990,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,102,117,77
+1990,Portuguese Grand Prix,Portugal,Autódromo do Estoril,95,102,117
+1990,Spanish Grand Prix,Spain,Circuito de Jerez,117,95,145
+1990,Japanese Grand Prix,Japan,Suzuka Circuit,137,90,88
+1990,Australian Grand Prix,Australia,Adelaide Street Circuit,137,95,117
+2010,Bahrain Grand Prix,Bahrain,Bahrain,4,13,1
+2010,Australian Grand Prix,Australia,Albert-Park,18,9,13
+2010,Malaysian Grand Prix,Malaysia,Sepang,20,17,3
+2010,Chinese Grand Prix,China,Shanghai,18,1,3
+2010,Spanish Grand Prix,Spain,Circuit de Barcelona-Catalunya,17,4,20
+2010,Monaco Grand Prix,Monaco,Circuit de Monaco,17,20,9
+2010,Turkish Grand Prix,Turkey,Istanbul-Park,1,18,17
+2010,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,1,18,4
+2010,European Grand Prix,Spain,Valencia Street Circuit,20,1,18
+2010,British Grand Prix,UK,Silverstone Circuit,17,1,3
+2010,German Grand Prix,Germany,Hockenheimring,4,13,20
+2010,Hungarian Grand Prix,Hungary,Hungaroring,17,4,20
+2010,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,1,17,9
+2010,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,4,18,13
+2010,Singapore Grand Prix,Singapore,Marina Bay Street Circuit,4,20,17
+2010,Japanese Grand Prix,Japan,Suzuka Circuit,20,17,4
+2010,Korean Grand Prix,Korea,Korean International Circuit,4,1,13
+2010,Brazilian Grand Prix,Brazil,Autódromo José Carlos Pace,20,17,4
+2010,Abu-Dhabi Grand Prix,UAE,Yas Marina Circuit,20,1,18
+1989,Brazilian Grand Prix,Brazil,Autódromo Internacional Nelson Piquet,95,117,127
+1989,San-Marino Grand Prix,Italy,Autodromo Enzo e Dino Ferrari,102,117,145
+1989,Monaco Grand Prix,Monaco,Circuit de Monaco,102,117,131
+1989,Mexican Grand Prix,Mexico,Autódromo Hermanos Rodríguez,102,119,105
+1989,United-States Grand Prix,USA,Phoenix street circuit,117,119,158
+1989,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,123,119,110
+1989,French Grand Prix,France,Circuit Paul Ricard,117,95,119
+1989,British Grand Prix,UK,Silverstone Circuit,117,95,145
+1989,German Grand Prix,Germany,Hockenheimring,102,117,95
+1989,Hungarian Grand Prix,Hungary,Hungaroring,95,102,123
+1989,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,102,117,95
+1989,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,117,77,123
+1989,Portuguese Grand Prix,Portugal,Autódromo do Estoril,77,117,140
+1989,Spanish Grand Prix,Spain,Circuito de Jerez,102,77,117
+1989,Japanese Grand Prix,Japan,Suzuka Circuit,145,119,123
+1989,Australian Grand Prix,Australia,Adelaide Street Circuit,123,145,119
+1988,Brazilian Grand Prix,Brazil,Autódromo Internacional Nelson Piquet,117,77,137
+1988,San-Marino Grand Prix,Italy,Autodromo Enzo e Dino Ferrari,102,117,137
+1988,Monaco Grand Prix,Monaco,Circuit de Monaco,117,77,105
+1988,Mexican Grand Prix,Mexico,Autódromo Hermanos Rodríguez,117,102,77
+1988,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,102,117,123
+1988,Detroit Grand Prix,USA,Detroit Street Circuit,102,117,123
+1988,French Grand Prix,France,Circuit Paul Ricard,117,102,105
+1988,British Grand Prix,UK,Silverstone Circuit,102,95,145
+1988,German Grand Prix,Germany,Hockenheimring,102,117,77
+1988,Hungarian Grand Prix,Hungary,Hungaroring,102,117,123
+1988,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,102,117,122
+1988,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,77,105,158
+1988,Portuguese Grand Prix,Portugal,Autódromo do Estoril,117,122,123
+1988,Spanish Grand Prix,Spain,Circuito de Jerez,117,95,145
+1988,Japanese Grand Prix,Japan,Suzuka Circuit,102,117,123
+1988,Australian Grand Prix,Australia,Adelaide Street Circuit,117,102,137
+1987,Brazilian Grand Prix,Brazil,Autódromo Internacional Nelson Piquet,117,137,140
+1987,San-Marino Grand Prix,Italy,Autodromo Enzo e Dino Ferrari,95,102,105
+1987,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,117,140,110
+1987,Monaco Grand Prix,Monaco,Circuit de Monaco,102,137,105
+1987,Detroit Grand Prix,USA,Detroit Street Circuit,102,137,117
+1987,French Grand Prix,France,Circuit Paul Ricard,95,137,117
+1987,British Grand Prix,UK,Silverstone Circuit,95,137,102
+1987,German Grand Prix,Germany,Hockenheimring,137,140,102
+1987,Hungarian Grand Prix,Hungary,Hungaroring,137,102,117
+1987,Austrian Grand Prix,Austria,A1-Ring,95,137,170
+1987,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,137,102,95
+1987,Portuguese Grand Prix,Portugal,Autódromo do Estoril,117,77,137
+1987,Spanish Grand Prix,Spain,Circuito de Jerez,95,117,140
+1987,Mexican Grand Prix,Mexico,Autódromo Hermanos Rodríguez,95,137,119
+1987,Japanese Grand Prix,Japan,Suzuka Circuit,77,102,140
+1987,Australian Grand Prix,Australia,Adelaide Street Circuit,77,105,123
+1986,Brazilian Grand Prix,Brazil,Autódromo Internacional Nelson Piquet,137,102,172
+1986,Spanish Grand Prix,Spain,Circuito de Jerez,102,95,117
+1986,San-Marino Grand Prix,Italy,Autodromo Enzo e Dino Ferrari,117,137,77
+1986,Monaco Grand Prix,Monaco,Circuit de Monaco,117,177,102
+1986,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,95,102,140
+1986,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,95,117,137
+1986,Detroit Grand Prix,USA,Detroit Street Circuit,102,172,117
+1986,French Grand Prix,France,Circuit Paul Ricard,95,117,137
+1986,British Grand Prix,UK,Brands Hatch,95,137,117
+1986,German Grand Prix,Germany,Hockenheimring,137,102,95
+1986,Hungarian Grand Prix,Hungary,Hungaroring,137,102,95
+1986,Austrian Grand Prix,Austria,A1-Ring,117,105,140
+1986,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,137,95,140
+1986,Portuguese Grand Prix,Portugal,Autódromo do Estoril,95,117,137
+1986,Mexican Grand Prix,Mexico,Autódromo Hermanos Rodríguez,77,117,102
+1986,Australian Grand Prix,Australia,Adelaide Street Circuit,117,137,140
+1985,Brazilian Grand Prix,Brazil,Autódromo Internacional Nelson Piquet,117,105,173
+1985,Portuguese Grand Prix,Portugal,Autódromo do Estoril,102,105,175
+1985,San-Marino Grand Prix,Italy,Autodromo Enzo e Dino Ferrari,173,123,175
+1985,Monaco Grand Prix,Monaco,Circuit de Monaco,117,105,173
+1985,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,105,140,117
+1985,Detroit Grand Prix,USA,Detroit Street Circuit,177,140,105
+1985,French Grand Prix,France,Circuit Paul Ricard,137,177,117
+1985,British Grand Prix,UK,Silverstone Circuit,117,105,172
+1985,German Grand Prix,Germany,Nürburgring,105,117,172
+1985,Austrian Grand Prix,Austria,A1-Ring,117,102,105
+1985,Dutch Grand Prix,Netherlands,Circuit Park Zandvoort,182,117,102
+1985,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,117,137,102
+1985,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,102,95,117
+1985,European Grand Prix,UK,Brands Hatch,95,102,177
+1985,South African Grand Prix,South Africa,Kyalami,95,177,117
+1985,Australian Grand Prix,Australia,Adelaide Street Circuit,177,172,166
+1984,Brazilian Grand Prix,Brazil,Autódromo Internacional Nelson Piquet,117,177,173
+1984,South African Grand Prix,South Africa,Kyalami,182,117,118
+1984,Belgian Grand Prix,Belgium,Zolder,105,118,163
+1984,San-Marino Grand Prix,Italy,Autodromo Enzo e Dino Ferrari,117,163,173
+1984,French Grand Prix,France,Dijon-Prenois,182,175,95
+1984,Monaco Grand Prix,Monaco,Circuit de Monaco,117,102,163
+1984,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,137,182,117
+1984,Detroit Grand Prix,USA,Detroit Street Circuit,137,173,170
+1984,Dallas Grand Prix,USA,Fair Park,177,163,173
+1984,British Grand Prix,UK,Brands Hatch,182,118,102
+1984,German Grand Prix,Germany,Hockenheimring,117,182,118
+1984,Austrian Grand Prix,Austria,A1-Ring,182,137,105
+1984,Dutch Grand Prix,Netherlands,Circuit Park Zandvoort,117,182,95
+1984,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,182,105,119
+1984,European Grand Prix,Germany,Nürburgring,117,105,137
+1984,Portuguese Grand Prix,Portugal,Autódromo do Estoril,117,182,102
+1983,Brazilian Grand Prix,Brazil,Autódromo Internacional Nelson Piquet,137,182,172
+1983,United-States Grand Prix West,USA,Long Beach,187,182,163
+1983,French Grand Prix,France,Circuit Paul Ricard,117,137,158
+1983,San-Marino Grand Prix,Italy,Autodromo Enzo e Dino Ferrari,175,117,163
+1983,Monaco Grand Prix,Monaco,Circuit de Monaco,177,137,117
+1983,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,117,175,158
+1983,Detroit Grand Prix,USA,Detroit Street Circuit,105,177,187
+1983,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,163,158,175
+1983,British Grand Prix,UK,Silverstone Circuit,117,137,175
+1983,German Grand Prix,Germany,Hockenheimring,163,110,119
+1983,Austrian Grand Prix,Austria,A1-Ring,117,163,137
+1983,Dutch Grand Prix,Netherlands,Circuit Park Zandvoort,163,175,187
+1983,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,137,163,158
+1983,European Grand Prix,UK,Brands Hatch,137,117,95
+1983,South African Grand Prix,South Africa,Kyalami,119,110,137
+1982,South African Grand Prix,South Africa,Kyalami,117,199,163
+1982,Brazilian Grand Prix,Brazil,Autódromo Internacional Nelson Piquet,117,187,95
+1982,United-States Grand Prix West,USA,Long Beach,182,177,119
+1982,San-Marino Grand Prix,Italy,Autodromo Enzo e Dino Ferrari,202,203,105
+1982,Belgian Grand Prix,Belgium,Zolder,187,177,158
+1982,Monaco Grand Prix,Monaco,Circuit de Monaco,119,202,110
+1982,Detroit Grand Prix,USA,Detroit Street Circuit,187,158,202
+1982,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,137,119,187
+1982,Dutch Grand Prix,Netherlands,Circuit Park Zandvoort,202,137,177
+1982,British Grand Prix,UK,Brands Hatch,182,202,175
+1982,French Grand Prix,France,Circuit Paul Ricard,163,117,202
+1982,German Grand Prix,Germany,Hockenheimring,175,163,177
+1982,Austrian Grand Prix,Austria,A1-Ring,173,177,172
+1982,Swiss Grand Prix,France,Dijon-Prenois,177,117,182
+1982,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,163,175,207
+1982,Caesars Palace Grand Prix,USA,Las Vegas Street Circuit,105,187,158
+1981,United-States Grand Prix West,USA,Long Beach,178,199,137
+1981,Brazilian Grand Prix,Brazil,Autódromo Internacional Nelson Piquet,199,178,119
+1981,Argentine Grand Prix,Argentina,Autódromo Juan y Oscar Gálvez,137,199,117
+1981,San-Marino Grand Prix,Italy,Autodromo Enzo e Dino Ferrari,137,119,199
+1981,Belgian Grand Prix,Belgium,Zolder,199,172,95
+1981,Monaco Grand Prix,Monaco,Circuit de Monaco,203,178,172
+1981,Spanish Grand Prix,Spain,Jarama,203,172,187
+1981,French Grand Prix,France,Dijon-Prenois,117,187,137
+1981,British Grand Prix,UK,Silverstone Circuit,187,199,172
+1981,German Grand Prix,Germany,Hockenheimring,137,117,172
+1981,Austrian Grand Prix,Austria,A1-Ring,172,163,137
+1981,Dutch Grand Prix,Netherlands,Circuit Park Zandvoort,117,137,178
+1981,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,117,178,199
+1981,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,172,187,203
+1981,Caesars Palace Grand Prix,USA,Las Vegas Street Circuit,178,117,152
+1980,Argentine Grand Prix,Argentina,Autódromo Juan y Oscar Gálvez,178,137,177
+1980,Brazilian Grand Prix,Brazil,Autódromo José Carlos Pace,163,173,178
+1980,South African Grand Prix,South Africa,Kyalami,163,172,202
+1980,United-States Grand Prix West,USA,Long Beach,137,119,224
+1980,Belgian Grand Prix,Belgium,Zolder,202,178,199
+1980,Monaco Grand Prix,Monaco,Circuit de Monaco,199,172,137
+1980,French Grand Prix,France,Circuit Paul Ricard,178,202,172
+1980,British Grand Prix,UK,Brands Hatch,178,137,199
+1980,German Grand Prix,Germany,Hockenheimring,172,199,178
+1980,Austrian Grand Prix,Austria,A1-Ring,219,178,199
+1980,Dutch Grand Prix,Netherlands,Circuit Park Zandvoort,137,163,172
+1980,Italian Grand Prix,Italy,Autodromo Enzo e Dino Ferrari,137,178,199
+1980,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,178,199,202
+1980,United-States Grand Prix,USA,Watkins Glen,178,199,202
+1979,Argentine Grand Prix,Argentina,Autódromo Juan y Oscar Gálvez,172,199,187
+1979,Brazilian Grand Prix,Brazil,Autódromo José Carlos Pace,172,221,199
+1979,South African Grand Prix,South Africa,Kyalami,203,222,197
+1979,United-States Grand Prix West,USA,Long Beach,203,222,178
+1979,Spanish Grand Prix,Spain,Jarama,221,199,207
+1979,Belgian Grand Prix,Belgium,Zolder,222,172,202
+1979,Monaco Grand Prix,Monaco,Circuit de Monaco,222,223,199
+1979,French Grand Prix,France,Dijon-Prenois,219,203,163
+1979,British Grand Prix,UK,Silverstone Circuit,223,163,197
+1979,German Grand Prix,Germany,Hockenheimring,178,223,172
+1979,Austrian Grand Prix,Austria,A1-Ring,178,203,172
+1979,Dutch Grand Prix,Netherlands,Circuit Park Zandvoort,178,222,172
+1979,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,222,203,223
+1979,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,178,203,223
+1979,United-States Grand Prix,USA,Watkins Glen,203,163,202
+1978,Argentine Grand Prix,Argentina,Autódromo Juan y Oscar Gálvez,207,182,221
+1978,Brazilian Grand Prix,Brazil,Autódromo Internacional Nelson Piquet,199,224,182
+1978,South African Grand Prix,South Africa,Kyalami,238,221,187
+1978,United-States Grand Prix West,USA,Long Beach,199,207,221
+1978,Monaco Grand Prix,Monaco,Circuit de Monaco,221,182,222
+1978,Belgian Grand Prix,Belgium,Zolder,207,238,199
+1978,Spanish Grand Prix,Spain,Jarama,207,238,172
+1978,Swedish Grand Prix,Sweden,Scandinavian Raceway,182,119,238
+1978,French Grand Prix,France,Circuit Paul Ricard,207,238,231
+1978,British Grand Prix,UK,Brands Hatch,199,182,187
+1978,German Grand Prix,Germany,Hockenheimring,207,222,172
+1978,Austrian Grand Prix,Austria,A1-Ring,238,221,203
+1978,Dutch Grand Prix,Netherlands,Circuit Park Zandvoort,207,238,182
+1978,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,182,187,199
+1978,United-States Grand Prix,USA,Watkins Glen,199,178,222
+1978,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,203,222,199
+1977,Argentine Grand Prix,Argentina,Autódromo Juan y Oscar Gálvez,222,250,199
+1977,Brazilian Grand Prix,Brazil,Autódromo José Carlos Pace,199,231,182
+1977,South African Grand Prix,South Africa,Kyalami,182,222,221
+1977,United-States Grand Prix West,USA,Long Beach,207,182,222
+1977,Spanish Grand Prix,Spain,Jarama,207,199,222
+1977,Monaco Grand Prix,Monaco,Circuit de Monaco,222,182,199
+1977,Belgian Grand Prix,Belgium,Zolder,255,182,238
+1977,Swedish Grand Prix,Sweden,Scandinavian Raceway,172,200,199
+1977,French Grand Prix,France,Dijon-Prenois,207,187,231
+1977,British Grand Prix,UK,Silverstone Circuit,231,182,255
+1977,German Grand Prix,Germany,Hockenheimring,182,222,233
+1977,Austrian Grand Prix,Austria,A1-Ring,178,182,233
+1977,Dutch Grand Prix,Netherlands,Circuit Park Zandvoort,182,172,222
+1977,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,207,182,178
+1977,United-States Grand Prix,USA,Watkins Glen,231,207,222
+1977,Canadian Grand Prix,Canada,Mosport International Raceway,222,221,200
+1977,Japanese Grand Prix,Japan,Fuji Speedway,231,199,221
+1976,Brazilian Grand Prix,Brazil,Autódromo José Carlos Pace,182,221,252
+1976,South African Grand Prix,South Africa,Kyalami,182,231,200
+1976,United-States Grand Prix West,USA,Long Beach,223,182,221
+1976,Spanish Grand Prix,Spain,Jarama,231,182,255
+1976,Belgian Grand Prix,Belgium,Zolder,182,223,172
+1976,Monaco Grand Prix,Monaco,Circuit de Monaco,182,222,221
+1976,Swedish Grand Prix,Sweden,Scandinavian Raceway,222,221,182
+1976,French Grand Prix,France,Circuit Paul Ricard,231,221,187
+1976,British Grand Prix,UK,Brands Hatch,182,222,187
+1976,German Grand Prix,Germany,Nürburgring,231,222,200
+1976,Austrian Grand Prix,Austria,A1-Ring,187,172,255
+1976,Dutch Grand Prix,Netherlands,Circuit Park Zandvoort,231,223,207
+1976,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,238,223,172
+1976,Canadian Grand Prix,Canada,Mosport International Raceway,231,221,207
+1976,United-States Grand Prix,USA,Watkins Glen,231,222,182
+1976,Japanese Grand Prix,Japan,Fuji Speedway,207,221,231
+1975,Argentine Grand Prix,Argentina,Autódromo Juan y Oscar Gálvez,224,231,199
+1975,Brazilian Grand Prix,Brazil,Autódromo José Carlos Pace,250,224,200
+1975,South African Grand Prix,South Africa,Kyalami,222,199,221
+1975,Spanish Grand Prix,Spain,Montjuïc,200,235,199
+1975,Monaco Grand Prix,Monaco,Circuit de Monaco,182,224,250
+1975,Belgian Grand Prix,Belgium,Zolder,182,222,199
+1975,Swedish Grand Prix,Sweden,Scandinavian Raceway,182,199,223
+1975,Dutch Grand Prix,Netherlands,Circuit Park Zandvoort,231,182,223
+1975,French Grand Prix,France,Circuit Paul Ricard,182,231,200
+1975,British Grand Prix,UK,Silverstone Circuit,224,250,222
+1975,German Grand Prix,Germany,Nürburgring,199,172,182
+1975,Austrian Grand Prix,Austria,A1-Ring,230,231,252
+1975,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,223,224,182
+1975,United-States Grand Prix,USA,Watkins Glen,182,224,200
+1974,Argentine Grand Prix,Argentina,Autódromo Juan y Oscar Gálvez,304,182,223
+1974,Brazilian Grand Prix,Brazil,Autódromo José Carlos Pace,224,223,235
+1974,South African Grand Prix,South Africa,Kyalami,199,306,305
+1974,Spanish Grand Prix,Spain,Jarama,182,223,224
+1974,Belgian Grand Prix,Belgium,Nivelles-Baulers,224,182,222
+1974,Monaco Grand Prix,Monaco,Circuit de Monaco,238,222,197
+1974,Swedish Grand Prix,Sweden,Scandinavian Raceway,222,221,231
+1974,Dutch Grand Prix,Netherlands,Circuit Park Zandvoort,182,223,224
+1974,French Grand Prix,France,Dijon-Prenois,238,182,223
+1974,British Grand Prix,UK,Brands Hatch,222,224,235
+1974,German Grand Prix,Germany,Nürburgring,223,222,199
+1974,Austrian Grand Prix,Austria,A1-Ring,199,304,231
+1974,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,238,224,222
+1974,Canadian Grand Prix,Canada,Mosport International Raceway,224,223,238
+1974,United-States Grand Prix,USA,Watkins Glen,199,250,231
+1973,Argentine Grand Prix,Argentina,Autódromo Juan y Oscar Gálvez,224,327,328
+1973,Brazilian Grand Prix,Brazil,Autódromo José Carlos Pace,224,328,304
+1973,South African Grand Prix,South Africa,Kyalami,328,309,224
+1973,Spanish Grand Prix,Spain,Montjuïc,224,327,332
+1973,Belgian Grand Prix,Belgium,Zolder,328,327,224
+1973,Monaco Grand Prix,Monaco,Circuit de Monaco,328,224,238
+1973,Swedish Grand Prix,Sweden,Scandinavian Raceway,304,238,327
+1973,French Grand Prix,France,Circuit Paul Ricard,238,327,199
+1973,British Grand Prix,UK,Silverstone Circuit,309,238,304
+1973,Dutch Grand Prix,Netherlands,Circuit Park Zandvoort,328,327,231
+1973,German Grand Prix,Germany,Nürburgring,328,327,235
+1973,Austrian Grand Prix,Austria,A1-Ring,238,328,250
+1973,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,238,224,309
+1973,Canadian Grand Prix,Canada,Mosport International Raceway,309,224,262
+1973,United-States Grand Prix,USA,Watkins Glen,238,231,199
+1972,Argentine Grand Prix,Argentina,Autódromo Juan y Oscar Gálvez,328,304,235
+1972,South African Grand Prix,South Africa,Kyalami,304,224,309
+1972,Spanish Grand Prix,Spain,Jarama,224,235,223
+1972,Monaco Grand Prix,Monaco,Circuit de Monaco,306,235,224
+1972,Belgian Grand Prix,Belgium,Nivelles-Baulers,224,327,304
+1972,French Grand Prix,France,Charade Circuit,328,224,278
+1972,British Grand Prix,UK,Brands Hatch,224,328,309
+1972,German Grand Prix,Germany,Nürburgring,235,223,238
+1972,Austrian Grand Prix,Austria,A1-Ring,224,304,309
+1972,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,224,305,304
+1972,Canadian Grand Prix,Canada,Mosport International Raceway,328,309,304
+1972,United-States Grand Prix,USA,Watkins Glen,328,327,304
+1971,South African Grand Prix,South Africa,Kyalami,207,328,223
+1971,Spanish Grand Prix,Spain,Montjuïc,328,235,278
+1971,Monaco Grand Prix,Monaco,Circuit de Monaco,328,238,235
+1971,Dutch Grand Prix,Netherlands,Circuit Park Zandvoort,235,345,223
+1971,French Grand Prix,France,Circuit Paul Ricard,328,327,224
+1971,British Grand Prix,UK,Silverstone Circuit,328,238,224
+1971,German Grand Prix,Germany,Nürburgring,328,327,223
+1971,Austrian Grand Prix,Austria,A1-Ring,346,224,314
+1971,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,320,238,327
+1971,Canadian Grand Prix,Canada,Mosport International Raceway,328,238,288
+1971,United-States Grand Prix,USA,Watkins Glen,327,346,238
+1970,South African Grand Prix,South Africa,Kyalami,356,304,328
+1970,Spanish Grand Prix,Spain,Jarama,328,360,207
+1970,Monaco Grand Prix,Monaco,Circuit de Monaco,358,356,280
+1970,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,345,278,306
+1970,Dutch Grand Prix,Netherlands,Circuit Park Zandvoort,358,328,235
+1970,French Grand Prix,France,Charade Circuit,358,278,356
+1970,British Grand Prix,UK,Brands Hatch,358,356,304
+1970,German Grand Prix,Germany,Hockenheimring,358,235,304
+1970,Austrian Grand Prix,Austria,A1-Ring,235,223,243
+1970,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,223,328,306
+1970,Canadian Grand Prix,Canada,Circuit Mont-Tremblant,235,223,278
+1970,United-States Grand Prix,USA,Watkins Glen,224,345,317
+1970,Mexican Grand Prix,Mexico,Autódromo Hermanos Rodríguez,235,223,304
+1969,South African Grand Prix,South Africa,Kyalami,328,289,304
+1969,Spanish Grand Prix,Spain,Montjuïc,328,360,306
+1969,Monaco Grand Prix,Monaco,Circuit de Monaco,289,361,346
+1969,Dutch Grand Prix,Netherlands,Circuit Park Zandvoort,328,346,278
+1969,French Grand Prix,France,Charade Circuit,328,306,235
+1969,British Grand Prix,UK,Silverstone Circuit,328,235,360
+1969,German Grand Prix,Germany,Nürburgring,235,328,360
+1969,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,328,358,306
+1969,Canadian Grand Prix,Canada,Mosport International Raceway,235,356,358
+1969,United-States Grand Prix,USA,Watkins Glen,358,361,341
+1969,Mexican Grand Prix,Mexico,Autódromo Hermanos Rodríguez,304,235,356
+1968,South African Grand Prix,South Africa,Kyalami,373,289,358
+1968,Spanish Grand Prix,Spain,Jarama,289,304,312
+1968,Monaco Grand Prix,Monaco,Circuit de Monaco,289,370,376
+1968,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,360,345,235
+1968,Dutch Grand Prix,Netherlands,Circuit Park Zandvoort,328,306,345
+1968,French Grand Prix,France,Rouen-Les-Essarts,235,341,328
+1968,British Grand Prix,UK,Brands Hatch,346,278,235
+1968,German Grand Prix,Germany,Nürburgring,328,289,358
+1968,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,304,359,235
+1968,Canadian Grand Prix,Canada,Circuit Mont-Tremblant,304,360,345
+1968,United-States Grand Prix,USA,Watkins Glen,328,289,341
+1968,Mexican Grand Prix,Mexico,Autódromo Hermanos Rodríguez,289,360,262
+1967,South African Grand Prix,South Africa,Kyalami,345,340,341
+1967,Monaco Grand Prix,Monaco,Circuit de Monaco,304,289,278
+1967,Dutch Grand Prix,Netherlands,Circuit Park Zandvoort,373,356,304
+1967,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,364,328,278
+1967,French Grand Prix,France,Le Mans,356,304,328
+1967,British Grand Prix,UK,Silverstone Circuit,373,304,278
+1967,German Grand Prix,Germany,Nürburgring,304,356,278
+1967,Canadian Grand Prix,Canada,Mosport International Raceway,356,304,364
+1967,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,341,356,373
+1967,United-States Grand Prix,USA,Watkins Glen,373,289,304
+1967,Mexican Grand Prix,Mexico,Autódromo Hermanos Rodríguez,373,356,304
+1966,Monaco Grand Prix,Monaco,Circuit de Monaco,328,385,289
+1966,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,341,358,385
+1966,French Grand Prix,France,Reims-Gueux,356,387,304
+1966,British Grand Prix,UK,Brands Hatch,356,304,289
+1966,Dutch Grand Prix,Netherlands,Circuit Park Zandvoort,356,289,373
+1966,German Grand Prix,Germany,Nürburgring,356,341,358
+1966,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,375,387,304
+1966,United-States Grand Prix,USA,Watkins Glen,373,358,341
+1966,Mexican Grand Prix,Mexico,Autódromo Hermanos Rodríguez,341,356,304
+1965,South African Grand Prix,South Africa,Prince George Circuit,373,341,289
+1965,Monaco Grand Prix,Monaco,Circuit de Monaco,289,385,328
+1965,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,373,328,360
+1965,French Grand Prix,France,Charade Circuit,373,328,341
+1965,British Grand Prix,UK,Silverstone Circuit,373,289,341
+1965,Dutch Grand Prix,Netherlands,Circuit Park Zandvoort,373,328,364
+1965,German Grand Prix,Germany,Nürburgring,373,289,364
+1965,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,328,289,364
+1965,United-States Grand Prix,USA,Watkins Glen,289,364,356
+1965,Mexican Grand Prix,Mexico,Autódromo Hermanos Rodríguez,386,364,374
+1964,Monaco Grand Prix,Monaco,Circuit de Monaco,289,386,397
+1964,Dutch Grand Prix,Netherlands,Circuit Park Zandvoort,373,341,397
+1964,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,373,360,356
+1964,French Grand Prix,France,Rouen-Les-Essarts,364,289,356
+1964,British Grand Prix,UK,Brands Hatch,373,289,341
+1964,German Grand Prix,Germany,Nürburgring,341,289,385
+1964,Austrian Grand Prix,Austria,Zeltweg,385,386,383
+1964,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,341,360,385
+1964,United-States Grand Prix,USA,Watkins Glen,289,341,346
+1964,Mexican Grand Prix,Mexico,Autódromo Hermanos Rodríguez,364,341,385
+1963,Monaco Grand Prix,Monaco,Circuit de Monaco,289,386,360
+1963,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,373,360,364
+1963,Dutch Grand Prix,Netherlands,Circuit Park Zandvoort,373,364,341
+1963,French Grand Prix,France,Reims-Gueux,373,408,289
+1963,British Grand Prix,UK,Silverstone Circuit,373,341,289
+1963,German Grand Prix,Germany,Nürburgring,341,373,386
+1963,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,373,386,360
+1963,United-States Grand Prix,USA,Watkins Glen,289,386,373
+1963,Mexican Grand Prix,Mexico,Autódromo Hermanos Rodríguez,373,356,386
+1963,South African Grand Prix,South Africa,Prince George Circuit,373,364,289
+1962,Dutch Grand Prix,Netherlands,Circuit Park Zandvoort,289,401,403
+1962,Monaco Grand Prix,Monaco,Circuit de Monaco,360,403,385
+1962,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,373,289,403
+1962,French Grand Prix,France,Rouen-Les-Essarts,364,408,386
+1962,British Grand Prix,UK,Aintree,373,341,360
+1962,German Grand Prix,Germany,Nürburgring,289,341,364
+1962,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,289,386,360
+1962,United-States Grand Prix,USA,Watkins Glen,373,289,360
+1962,South African Grand Prix,South Africa,Prince George Circuit,289,360,408
+1961,Monaco Grand Prix,Monaco,Circuit de Monaco,475,386,403
+1961,Dutch Grand Prix,Netherlands,Circuit Park Zandvoort,476,403,373
+1961,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,403,476,386
+1961,French Grand Prix,France,Reims-Gueux,394,364,373
+1961,British Grand Prix,UK,Aintree,476,403,386
+1961,German Grand Prix,Germany,Nürburgring,475,476,403
+1961,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,403,364,360
+1961,United-States Grand Prix,USA,Watkins Glen,404,364,479
+1960,Argentine Grand Prix,Argentina,Autódromo Juan y Oscar Gálvez,360,477,475
+1960,Monaco Grand Prix,Monaco,Circuit de Monaco,475,360,403
+1960,Indianapolis 500,USA,Indianapolis Motor Speedway,509,449,510
+1960,Dutch Grand Prix,Netherlands,Circuit Park Zandvoort,356,404,289
+1960,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,356,360,482
+1960,French Grand Prix,France,Reims-Gueux,356,482,360
+1960,British Grand Prix,UK,Silverstone Circuit,356,341,404
+1960,Portuguese Grand Prix,Portugal,Circuito da Boavista,356,360,373
+1960,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,403,386,435
+1960,United-States Grand Prix,USA,Riverside International Raceway,475,404,360
+1959,Monaco Grand Prix,Monaco,Circuit de Monaco,356,479,427
+1959,Indianapolis 500,USA,Indianapolis Motor Speedway,449,509,512
+1959,Dutch Grand Prix,Netherlands,Circuit Park Zandvoort,347,356,418
+1959,French Grand Prix,France,Reims-Gueux,479,403,356
+1959,British Grand Prix,UK,Aintree,356,475,360
+1959,German Grand Prix,Germany,AVUS,479,364,403
+1959,Portuguese Grand Prix,Portugal,Monsanto Park Circuit,475,418,364
+1959,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,475,403,356
+1959,United-States Grand Prix,USA,Sebring International Raceway,360,427,479
+1958,Argentine Grand Prix,Argentina,Autódromo Juan y Oscar Gálvez,475,577,578
+1958,Monaco Grand Prix,Monaco,Circuit de Monaco,427,577,581
+1958,Dutch Grand Prix,Netherlands,Circuit Park Zandvoort,475,501,554
+1958,Indianapolis 500,USA,Indianapolis Motor Speedway,525,591,533
+1958,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,479,578,590
+1958,French Grand Prix,France,Reims-Gueux,578,475,476
+1958,British Grand Prix,UK,Silverstone Circuit,581,578,456
+1958,German Grand Prix,Germany,Nürburgring,479,456,427
+1958,Portuguese Grand Prix,Portugal,Circuito da Boavista,475,578,590
+1958,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,479,578,403
+1958,Moroccan Grand Prix,Morocco,Ain Diab,475,578,403
+1957,Argentine Grand Prix,Argentina,Autódromo Juan y Oscar Gálvez,579,554,496
+1957,Monaco Grand Prix,Monaco,Circuit de Monaco,579,479,418
+1957,Indianapolis 500,USA,Indianapolis Motor Speedway,611,509,525
+1957,French Grand Prix,France,Rouen-Les-Essarts,579,577,581
+1957,British Grand Prix,UK,Aintree,475,577,578
+1957,German Grand Prix,Germany,Nürburgring,579,578,581
+1957,Pescara Grand Prix,Italy,Pescara Circuit,475,579,501
+1957,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,475,579,476
+1956,Argentine Grand Prix,Argentina,Autódromo Juan y Oscar Gálvez,579,554,578
+1956,Monaco Grand Prix,Monaco,Circuit de Monaco,475,579,554
+1956,Indianapolis 500,USA,Indianapolis Motor Speedway,559,611,528
+1956,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,581,632,475
+1956,French Grand Prix,France,Reims-Gueux,581,608,554
+1956,British Grand Prix,UK,Silverstone Circuit,579,581,554
+1956,German Grand Prix,Germany,Nürburgring,579,475,554
+1956,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,475,579,541
+1955,Argentine Grand Prix,Argentina,Autódromo Juan y Oscar Gálvez,579,427,620
+1955,Monaco Grand Prix,Monaco,Circuit de Monaco,427,608,607
+1955,Indianapolis 500,USA,Indianapolis Motor Speedway,628,555,653
+1955,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,579,475,642
+1955,Dutch Grand Prix,Netherlands,Circuit Park Zandvoort,579,475,577
+1955,British Grand Prix,UK,Aintree,475,579,648
+1955,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,579,641,608
+1954,Argentine Grand Prix,Argentina,Autódromo Juan y Oscar Gálvez,579,642,498
+1954,Indianapolis 500,USA,Indianapolis Motor Speedway,657,525,658
+1954,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,579,427,475
+1954,French Grand Prix,France,Reims-Gueux,579,648,626
+1954,British Grand Prix,UK,Silverstone Circuit,498,578,670
+1954,German Grand Prix,Germany,Nürburgring,579,578,427
+1954,Swiss Grand Prix,Switzerland,Circuit Bremgarten,579,498,478
+1954,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,579,578,498
+1954,Spanish Grand Prix,Spain,Circuit de Pedralbes,578,577,579
+1953,Argentine Grand Prix,Argentina,Autódromo Juan y Oscar Gálvez,647,633,498
+1953,Indianapolis 500,USA,Indianapolis Motor Speedway,657,656,518
+1953,Dutch Grand Prix,Netherlands,Circuit Park Zandvoort,647,642,498
+1953,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,647,633,670
+1953,French Grand Prix,France,Reims-Gueux,578,579,498
+1953,British Grand Prix,UK,Silverstone Circuit,647,579,642
+1953,German Grand Prix,Germany,Nürburgring,642,579,578
+1953,Swiss Grand Prix,Switzerland,Circuit Bremgarten,647,642,578
+1953,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,579,642,633
+1952,Swiss Grand Prix,Switzerland,Circuit Bremgarten,641,723,554
+1952,Indianapolis 500,USA,Indianapolis Motor Speedway,526,509,611
+1952,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,647,642,626
+1952,French Grand Prix,France,Rouen-Les-Essarts,647,642,641
+1952,British Grand Prix,UK,Silverstone Circuit,647,641,578
+1952,German Grand Prix,Germany,Nürburgring,647,642,723
+1952,Dutch Grand Prix,Netherlands,Circuit Park Zandvoort,647,642,633
+1952,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,647,498,633
+1951,Swiss Grand Prix,Switzerland,Circuit Bremgarten,579,641,642
+1951,Indianapolis 500,USA,Indianapolis Motor Speedway,766,673,675
+1951,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,642,647,633
+1951,French Grand Prix,France,Reims-Gueux,579,498,633
+1951,British Grand Prix,UK,Silverstone Circuit,498,579,633
+1951,German Grand Prix,Germany,Nürburgring,647,579,498
+1951,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,647,498,642
+1951,Spanish Grand Prix,Spain,Circuit de Pedralbes,579,498,642
+1950,British Grand Prix,UK,Silverstone Circuit,642,786,686
+1950,Monaco Grand Prix,Monaco,Circuit de Monaco,579,647,589
+1950,Indianapolis 500,USA,Indianapolis Motor Speedway,593,701,768
+1950,Swiss Grand Prix,Switzerland,Circuit Bremgarten,642,786,627
+1950,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,579,786,627
+1950,French Grand Prix,France,Reims-Gueux,579,786,687
+1950,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,642,647,786
+2011,Australian Grand Prix,Australia,Albert-Park,20,1,808
+2011,Malaysian Grand Prix,Malaysia,Sepang,20,18,2
+2011,Chinese Grand Prix,China,Shanghai,1,20,17
+2011,Turkish Grand Prix,Turkey,Istanbul-Park,20,17,4
+2011,Spanish Grand Prix,Spain,Circuit de Barcelona-Catalunya,20,1,18
+2011,Monaco Grand Prix,Monaco,Circuit de Monaco,20,4,18
+2011,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,18,20,17
+2011,European Grand Prix,Spain,Valencia Street Circuit,20,4,17
+2011,British Grand Prix,UK,Silverstone Circuit,4,20,17
+2011,German Grand Prix,Germany,Nürburgring,1,4,17
+2011,Hungarian Grand Prix,Hungary,Hungaroring,18,20,4
+2011,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,20,17,18
+2011,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,20,18,4
+2011,Singapore Grand Prix,Singapore,Marina Bay Street Circuit,20,18,17
+2011,Japanese Grand Prix,Japan,Suzuka Circuit,18,4,20
+2011,Korean Grand Prix,Korea,Korean International Circuit,20,1,17
+2011,Indian Grand Prix,India,Buddh International Circuit,20,18,4
+2011,Abu-Dhabi Grand Prix,UAE,Yas Marina Circuit,1,4,18
+2011,Brazilian Grand Prix,Brazil,Autódromo José Carlos Pace,17,20,18
+2012,Australian Grand Prix,Australia,Albert-Park,18,20,1
+2012,Malaysian Grand Prix,Malaysia,Sepang,4,815,1
+2012,Chinese Grand Prix,China,Shanghai,3,18,1
+2012,Bahrain Grand Prix,Bahrain,Bahrain,20,8,154
+2012,Spanish Grand Prix,Spain,Circuit de Barcelona-Catalunya,813,4,8
+2012,Monaco Grand Prix,Monaco,Circuit de Monaco,17,3,4
+2012,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,1,154,815
+2012,European Grand Prix,Spain,Valencia Street Circuit,4,8,30
+2012,British Grand Prix,UK,Silverstone Circuit,17,4,20
+2012,German Grand Prix,Germany,Hockenheimring,4,18,8
+2012,Hungarian Grand Prix,Hungary,Hungaroring,1,8,154
+2012,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,18,20,8
+2012,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,1,815,4
+2012,Singapore Grand Prix,Singapore,Marina Bay Street Circuit,20,18,4
+2012,Japanese Grand Prix,Japan,Suzuka Circuit,20,13,155
+2012,Korean Grand Prix,Korea,Korean International Circuit,20,17,4
+2012,Indian Grand Prix,India,Buddh International Circuit,20,4,17
+2012,Abu-Dhabi Grand Prix,UAE,Yas Marina Circuit,8,4,20
+2012,United-States Grand Prix,USA,Circuit of the Americas,1,20,4
+2012,Brazilian Grand Prix,Brazil,Autódromo José Carlos Pace,18,4,13
+2013,Australian Grand Prix,Australia,Albert-Park,8,4,20
+2013,Malaysian Grand Prix,Malaysia,Sepang,20,17,1
+2013,Chinese Grand Prix,China,Shanghai,4,8,1
+2013,Bahrain Grand Prix,Bahrain,Bahrain,20,8,154
+2013,Spanish Grand Prix,Spain,Circuit de Barcelona-Catalunya,4,8,13
+2013,Monaco Grand Prix,Monaco,Circuit de Monaco,3,20,17
+2013,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,20,4,1
+2013,British Grand Prix,UK,Silverstone Circuit,3,17,4
+2013,German Grand Prix,Germany,Nürburgring,20,8,154
+2013,Hungarian Grand Prix,Hungary,Hungaroring,1,8,20
+2013,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,20,4,1
+2013,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,20,4,17
+2013,Singapore Grand Prix,Singapore,Marina Bay Street Circuit,20,4,8
+2013,Korean Grand Prix,Korea,Korean International Circuit,20,8,154
+2013,Japanese Grand Prix,Japan,Suzuka Circuit,20,17,154
+2013,Indian Grand Prix,India,Buddh International Circuit,20,3,154
+2013,Abu-Dhabi Grand Prix,UAE,Yas Marina Circuit,20,17,3
+2013,United-States Grand Prix,USA,Circuit of the Americas,20,154,17
+2013,Brazilian Grand Prix,Brazil,Autódromo José Carlos Pace,20,17,4
+2014,Australian Grand Prix,Australia,Albert-Park,3,825,18
+2014,Malaysian Grand Prix,Malaysia,Sepang,1,3,20
+2014,Bahrain Grand Prix,Bahrain,Bahrain,1,3,815
+2014,Chinese Grand Prix,China,Shanghai,1,3,4
+2014,Spanish Grand Prix,Spain,Circuit de Barcelona-Catalunya,1,3,817
+2014,Monaco Grand Prix,Monaco,Circuit de Monaco,3,1,817
+2014,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,817,3,20
+2014,Austrian Grand Prix,Austria,Red Bull Ring,3,1,822
+2014,British Grand Prix,UK,Silverstone Circuit,1,822,817
+2014,German Grand Prix,Germany,Hockenheimring,3,822,1
+2014,Hungarian Grand Prix,Hungary,Hungaroring,817,4,1
+2014,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,817,3,822
+2014,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,1,3,13
+2014,Singapore Grand Prix,Singapore,Marina Bay Street Circuit,1,20,817
+2014,Japanese Grand Prix,Japan,Suzuka Circuit,1,3,20
+2014,Russian Grand Prix,Russia,Sochi Autodrom,1,3,822
+2014,United-States Grand Prix,USA,Circuit of the Americas,1,3,817
+2014,Brazilian Grand Prix,Brazil,Autódromo José Carlos Pace,3,1,13
+2014,Abu-Dhabi Grand Prix,UAE,Yas Marina Circuit,1,13,822
+2015,Monaco Grand Prix,Monaco,Circuit de Monaco,3,20,1
+2015,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,1,3,822
+2015,Bahrain Grand Prix,Bahrain,Bahrain,1,8,3
+2015,Spanish Grand Prix,Spain,Circuit de Barcelona-Catalunya,3,1,20
+2015,Chinese Grand Prix,China,Shanghai,1,3,20
+2015,Australian Grand Prix,Australia,Albert-Park,1,3,20
+2015,Malaysian Grand Prix,Malaysia,Sepang,20,1,3
+2015,Austrian Grand Prix,Austria,Red Bull Ring,3,1,13
+2015,British Grand Prix,UK,Silverstone Circuit,1,3,20
+2015,Hungarian Grand Prix,Hungary,Hungaroring,20,826,817
+2015,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,1,3,154
+2015,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,1,20,13
+2015,Singapore Grand Prix,Singapore,Marina Bay Street Circuit,20,817,8
+2015,Japanese Grand Prix,Japan,Suzuka Circuit,1,3,20
+2015,Russian Grand Prix,Russia,Sochi Autodrom,1,20,815
+2015,United-States Grand Prix,USA,Circuit of the Americas,1,3,20
+2015,Mexican Grand Prix,Mexico,Autódromo Hermanos Rodríguez,3,1,822
+2015,Brazilian Grand Prix,Brazil,Autódromo José Carlos Pace,3,1,20
+2015,Abu-Dhabi Grand Prix,UAE,Yas Marina Circuit,3,1,8
+2016,Australian Grand Prix,Australia,Albert-Park,3,1,20
+2016,Bahrain Grand Prix,Bahrain,Bahrain,3,8,1
+2016,Chinese Grand Prix,China,Shanghai,3,20,826
+2016,Russian Grand Prix,Russia,Sochi Autodrom,3,1,8
+2016,Spanish Grand Prix,Spain,Circuit de Barcelona-Catalunya,830,8,20
+2016,Monaco Grand Prix,Monaco,Circuit de Monaco,1,817,815
+2016,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,1,20,822
+2016,European Grand Prix,Azerbaijan,Baku City Circuit,3,20,815
+2016,Austrian Grand Prix,Austria,Red Bull Ring,1,830,8
+2016,British Grand Prix,UK,Silverstone Circuit,1,830,3
+2016,Hungarian Grand Prix,Hungary,Hungaroring,1,3,817
+2016,German Grand Prix,Germany,Hockenheimring,1,817,830
+2016,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,3,817,1
+2016,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,3,1,20
+2016,Singapore Grand Prix,Singapore,Marina Bay Street Circuit,3,817,1
+2016,Malaysian Grand Prix,Malaysia,Sepang,817,830,3
+2016,Japanese Grand Prix,Japan,Suzuka Circuit,3,830,1
+2016,United-States Grand Prix,USA,Circuit of the Americas,1,3,817
+2016,Mexican Grand Prix,Mexico,Autódromo Hermanos Rodríguez,1,3,817
+2016,Brazilian Grand Prix,Brazil,Autódromo José Carlos Pace,1,3,830
+2016,Abu-Dhabi Grand Prix,UAE,Yas Marina Circuit,1,3,20
+2017,Australian Grand Prix,Australia,Albert-Park,20,1,822
+2017,Chinese Grand Prix,China,Shanghai,1,20,830
+2017,Bahrain Grand Prix,Bahrain,Bahrain,20,1,822
+2017,Russian Grand Prix,Russia,Sochi Autodrom,822,20,8
+2017,Spanish Grand Prix,Spain,Circuit de Barcelona-Catalunya,1,20,817
+2017,Monaco Grand Prix,Monaco,Circuit de Monaco,20,8,817
+2017,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,1,822,817
+2017,Azerbaijan Grand Prix,Azerbaijan,Baku City Circuit,817,822,840
+2017,Austrian Grand Prix,Austria,Red Bull Ring,822,20,817
+2017,British Grand Prix,UK,Silverstone Circuit,1,822,8
+2017,Hungarian Grand Prix,Hungary,Hungaroring,20,8,822
+2017,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,1,20,817
+2017,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,1,822,20
+2017,Singapore Grand Prix,Singapore,Marina Bay Street Circuit,1,817,822
+2017,Malaysian Grand Prix,Malaysia,Sepang,830,1,817
+2017,Japanese Grand Prix,Japan,Suzuka Circuit,1,830,817
+2017,United-States Grand Prix,USA,Circuit of the Americas,1,20,8
+2017,Mexican Grand Prix,Mexico,Autódromo Hermanos Rodríguez,830,822,8
+2017,Brazilian Grand Prix,Brazil,Autódromo José Carlos Pace,20,822,8
+2017,Abu-Dhabi Grand Prix,UAE,Yas Marina Circuit,822,1,20
+2018,Australian Grand Prix,Australia,Albert-Park,20,1,8
+2018,Bahrain Grand Prix,Bahrain,Bahrain,20,822,1
+2018,Chinese Grand Prix,China,Shanghai,817,822,8
+2018,Azerbaijan Grand Prix,Azerbaijan,Baku City Circuit,1,8,815
+2018,Spanish Grand Prix,Spain,Circuit de Barcelona-Catalunya,1,822,830
+2018,Monaco Grand Prix,Monaco,Circuit de Monaco,817,20,1
+2018,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,20,822,830
+2018,French Grand Prix,France,Circuit Paul Ricard,1,830,8
+2018,Austrian Grand Prix,Austria,Red Bull Ring,830,8,20
+2018,British Grand Prix,UK,Silverstone Circuit,20,1,8
+2018,German Grand Prix,Germany,Hockenheimring,1,822,8
+2018,Hungarian Grand Prix,Hungary,Hungaroring,1,20,8
+2018,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,20,1,830
+2018,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,1,8,822
+2018,Singapore Grand Prix,Singapore,Marina Bay Street Circuit,1,830,20
+2018,Russian Grand Prix,Russia,Sochi Autodrom,1,822,20
+2018,Japanese Grand Prix,Japan,Suzuka Circuit,1,822,830
+2018,United-States Grand Prix,USA,Circuit of the Americas,8,822,1
+2018,Mexican Grand Prix,Mexico,Autódromo Hermanos Rodríguez,822,20,8
+2018,Brazilian Grand Prix,Brazil,Autódromo José Carlos Pace,1,822,8
+2018,Abu-Dhabi Grand Prix,UAE,Yas Marina Circuit,1,822,20

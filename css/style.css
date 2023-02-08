@@ -1,0 +1,282 @@
+@font-face {
+    font-family: "F1 Font";
+    src: url("../fonts/Formula1 Display-Regular.otf") format("truetype");
+}
+
+body {
+    font-family: 'Titillium Web', sans-serif !important;
+    background-color: #15151E;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "F1 Font" !important;
+}
+
+.infocard-container-outer{
+/*    visibility:hidden;*/
+}
+
+.goat-text, .goat-text-2 {
+    font-family: "F1 Font" !important;
+}
+
+.inner-circle text, .outer-circle text {
+    font-family: "F1 Font" !important;
+}
+
+.levelArcs:hover, .inner-circle:hover, .outer-circle:hover, .inner-ticks:hover, .outer-ticks:hover {
+    cursor: pointer;
+}
+
+.d3-tip {
+    line-height: 1;
+    font-weight: normal;
+    padding: 10px;
+    max-width: 250px;
+    background: rgba(255, 255, 255, 0.9);
+    color: #333;
+    border-radius: 2px;
+    border: 3px solid #eee;
+    pointer-events: none;
+}
+
+/* Creates a small triangle extender for the tooltip */
+
+.d3-tip:after {
+    box-sizing: border-box;
+    display: inline;
+    font-size: 10px;
+    width: 100%;
+    line-height: 1;
+    color: #eee;
+    position: absolute;
+    pointer-events: none;
+}
+
+/* Northward tooltips */
+
+.d3-tip.n:after {
+    content: "\25BC";
+    margin: -1px 0 0 0;
+    top: 100%;
+    left: 0;
+    text-align: center;
+}
+
+.main-arc {
+    fill: none;
+    stroke: red;
+    stroke-width: 1px;
+}
+
+.custom-handle {
+    width: 2em !important;;
+    height: 1.6em !important;
+    top: 50% !important;
+    margin-top: -.8em;
+    text-align: center;
+    line-height: 1.6em;
+}
+
+#power-gauge g.arc {
+    fill: steelblue;
+}
+
+#power-gauge g.pointer {
+    fill: #e85116;
+    stroke: #b64011;
+}
+
+#power-gauge g.label text {
+    text-anchor: middle;
+    font-size: 14px;
+    font-weight: bold;
+    fill: #666;
+}
+
+/* css formats for the gauge */
+.compareFeatureGauge .domain {
+    stroke-width: 2px;
+    stroke: #fff;
+}
+
+.compareFeatureGauge .tick line {
+    stroke: #fff;
+    stroke-width: 2px;
+}
+
+.compareFeatureGauge line {
+    stroke: #fff;
+}
+
+.compareFeatureGauge .arc, .compareFeatureGauge .cursor {
+    opacity: 0;
+}
+
+.compareFeatureGauge .major {
+    fill: #fff;
+    font-size: 15px;
+    font-family: 'Titillium Web', sans-serif !important;
+    font-weight: normal;
+}
+
+.compareFeatureGauge .indicator {
+    stroke: #EE3311;
+    fill: #000;
+    stroke-width: 4px;
+}
+/* css formats for the gauge */
+.featureGauge .domain {
+    stroke-width: 2px;
+    stroke: #fff;
+}
+
+.featureGauge .tick line {
+    stroke: #fff;
+    stroke-width: 2px;
+}
+
+.featureGauge line {
+    stroke: #fff;
+}
+
+.featureGauge .arc, .featureGauge .cursor {
+    opacity: 0;
+}
+
+.featureGauge .major {
+    fill: #fff;
+    font-size: 15px;
+    font-family: 'Titillium Web', sans-serif !important;
+    font-weight: normal;
+}
+
+.featureGauge .indicator {
+    stroke: #EE3311;
+    fill: #000;
+    stroke-width: 4px;
+}
+
+/* css formats for the segment display */
+.segdisplay .on {
+    fill: #00FFFF;
+
+}
+
+.segdisplay .off {
+    fill: #00FFFF;
+    opacity: 0.15;
+}
+
+.featureBubbleRow2 {
+    margin-top: 50px;
+}
+
+.compare-button {
+    width: calc(100% - 24px);
+    padding: 5px;
+    font-family: 'F1 Font';
+    background-color: #F7F4F1;
+}
+
+.close:hover {
+    cursor: pointer;
+}
+
+.compare_button {
+    width: 196px;
+    background: #F7F4F1;
+    color: black;
+    height: 32px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 28px;       /* the same as your div height */
+    font-size: 1em;
+    font-family: "F1 Font";
+}
+
+.compare_button:hover {
+    cursor: pointer;
+}
+
+.comparison-metrics {
+    background:#F7F4F1;
+    color:black;
+    height:496px;
+    padding:8px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 496px;       /* the same as your div height */
+    font-size: 1.5em;
+    font-family: "F1 Font";
+}
+
+.list {
+    list-style-type: none;
+    list-style-position: initial;
+    list-style-image: initial;
+    padding-inline-start:0px;
+    width:200px;
+    font-size:1.1em;
+}
+
+.list li:hover {
+    cursor: pointer;
+    background-color: #FF1E00;
+    color:#FFFFFF;
+}
+
+.search-bar {
+    background: transparent;
+    border-style: solid;
+    border-color: gray;
+    color:#FFFFFF;
+    width:200px;
+}
+
+::-webkit-scrollbar {
+    width: 0px !important; /* remove scrollbar space */
+    background: transparent;  /* optional: just make scrollbar invisible */
+}
+/* optional: show position indicator in red */
+::-webkit-scrollbar-thumb {
+    background: #FF0000;
+}
+
+.loading-animation {
+    height:100%;
+}
+
+.ng-scope {
+    /*height:100%;*/
+}
+
+/*
+@keyframes fadeIn {
+    0% {opacity: 0}
+    100% {opacity: 1}
+}
+
+@keyframes fadeOut {
+    0% {opacity: 1}
+    100% {opacity: 0;display:none}
+}
+
+.fadeInAnimated {
+    opacity: 0;
+    animation: fadeIn 2s forwards; !* forwards (animation-fill-mode) retains the style from the last keyframe when the animation ends *!
+}*/
+
+.compare_button:hover {
+    background-color: #FF1E00;
+    color: #F7F4F1;
+}
+
+.clicked {
+    background-color: #FF1E00;
+    color: #F7F4F1;
+}
+
+#searchDriverContainer{
+    width:200px;
+}

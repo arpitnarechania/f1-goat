@@ -1,0 +1,83 @@
+<div class="loading-animation">
+    <h1 id="goat" class="fadeInAnimated" style="color: white;text-align: center;vertical-align: middle; line-height: 90vh;">Who is the Greatest of All Time?</h1>
+    <h2 id="findout" style="color: white;text-align: center;vertical-align: middle;line-height: 90vh;">Let's find out!</h2>
+    <div id="box" style="background:#FF1E00;height:5px;width:1px;"></div>
+</div>
+
+<div id="main-content">
+    <div class="navbar navbar-static navbar-default navbar-fixed-top">
+        <div class="navbar-header" style="height:50px;background-color: #F7F4F1">
+            <img src="../data/images/F1_Vision-ColorOnWhite.png" style="height: 40px;margin-top:5px;">
+            <!-- <a class="navbar-brand" href="#"><img height="20" style="display:inline;" src="img/favicon2.png">&nbsp;&nbsp;Who is the greatest F1 driver of all time?</a> -->
+        </div>
+    </div>
+    <!-- Begin page content -->
+    <div class="container-fluid" style="margin-top:80px;">
+        <div class="row">
+            <div class="col-md-12" >
+                <div id="eras" style="position:relative;">
+                    <div ng-show="showSearch" style="position:absolute;left:15;top:-10;" class="form-group">
+                        <label style="color:white;font-family:'F1 Font'" for="searchDriver">Search</label>
+                        <br/>
+                        <input class="search-bar" style="margin-bottom:10px;" id="searchDriver" name="search"
+                               placeholder="" type="text" data-list=".list">
+                        <div id="searchDriverContainer" style="overflow-y:scroll;height:500px !important;">
+                            <ul style="color:gray;" class="list"></ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div ng-show="showCompareView" class="row" style="min-height:100px; margin-left:5%; margin-right:5%">
+            <div class="col-md-12">
+                <div style="float:left;display:inline-block;width:calc(100% - 200px);min-height: 104px;">
+                    <div class="row" >
+                        <div class="col-md-3"
+                             ng-repeat="(driverId,driver) in selectedDriverInfo | toArray | orderBy:'inputOrder'">
+                            <div style="border: 1px solid white;height: 100px;">
+                                <div style="float:left;display:inline-block;">
+                                    <img style="height:98px;width:75px;"
+                                         ng-src="../data/images/profile_pic/{{driver.driver.driverId}}.png">
+                                </div>
+                                <div style="width:calc(100% - 75px); float:right;display:inline-block; ">
+                                    <div class="row " style="margin-right: 5px;text-align: right;color:white ">
+                                        <img class="close "
+                                             ng-click="removeDriverFromCompareList(driver.driver.driverId) "
+                                             src="../img/access-denied.png "
+                                             style="width:10px;margin-top:5px;margin-right:0px; ">
+                                    </div>
+                                    <div class="row ">
+                                        <div style="margin-left:30px; ">
+                                            <p style="color: white; font-size:1em !important; font-family: 'F1 Font' ">
+                                                {{driver.name}}
+                                                <br>
+                                            </p>
+                                            <img style="width:24px; "
+                                                 ng-src="../data/images/country/{{driver.driver.driverId}}.png ">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="compare-buttons" style="width:200px; min-height: 100px; float:right; border:2px solid white;">
+                    <button  id="compare-button-era" ng-click="click_compare('era')" class="compare_button">COMPARE by Era</button>
+                    <button  id="compare-button-year" ng-click="click_compare('year')" class="compare_button">COMPARE by Year</button>
+                    <button  id="compare-button-race"  ng-click="click_compare('race')" class="compare_button">COMPARE by Race</button>
+                </div>
+            </div>
+        </div>
+        <div ng-show="showCompareView && showTimeseriesCharts" id="compare-area" class="row " style="margin-left:5%; margin-right:5%;margin-top:50px;height:500px;"
+             ng-repeat="(k,v) in feature_display_mapping " ng-if="$index > 0" style="margin-top:40px;">
+            <div class="col-md-12 ">
+                <div style="display:inline-block;width:calc(100% - 200px);border:2px solid white;height:500px;">
+                    <div id="{{v}}"></div>
+                </div>
+                <div style="width:200px; display:inline-block; float:right; border:2px solid white;">
+                    <div class="comparison-metrics" style="">{{k}}</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
